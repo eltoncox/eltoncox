@@ -26,7 +26,7 @@
   <img align="center" alt="Elton-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
   
   <img align="center" alt="Elton-linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  />
+  <img align="center" alt="Elton-debian" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  />
   <img align="center" alt="Elton-toncat" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original-wordmark.svg">
   <img align="center" alt="Elton-yaml" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yaml/yaml-original.svg">
     
