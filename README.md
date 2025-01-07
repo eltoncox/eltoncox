@@ -1,4 +1,4 @@
-- 👋 Olá, eu sou Elton Luiz
+- 👋 Olá, eu sou Elton
 - 👀 Tenho interesse em Java, Angular, Spring Boot, Swagger, Testcontainers, Flyway, TDD Test-Driven Development, SOLID E DDD
 - 🌱 Estou estudando Angular, TypeScript E Oracle
 
