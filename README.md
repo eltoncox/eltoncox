@@ -2,6 +2,8 @@
 - 👀 Tenho interesse em Java, Angular, Spring Boot, Swagger, Testcontainers, Flyway, TDD Test-Driven Development, SOLID E DDD
 - 🌱 Estou estudando Angular, TypeScript E Oracle
 
+- <p align="left">.Programador Java</p>
+
 <div align="center">
   <a href="https://github.com/leandrosnazareth">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eltoncox&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -24,6 +26,7 @@
   <img align="center" alt="Elton-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
   
   <img align="center" alt="Elton-linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  />
   <img align="center" alt="Elton-toncat" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original-wordmark.svg">
   <img align="center" alt="Elton-yaml" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yaml/yaml-original.svg">
     
