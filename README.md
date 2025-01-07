@@ -1,11 +1,11 @@
-- 👋 Olá, eu sou Elton
+- 👋 Olá, eu sou Elton Luiz
 - 👀 Tenho interesse em Java, Angular, Spring Boot, Swagger, Testcontainers, Flyway, TDD Test-Driven Development, SOLID E DDD
 - 🌱 Estou estudando Angular, TypeScript E Oracle
 
 - <p align="left">.Programador Java</p>
 
 <div align="center">
-  <a href="https://github.com/eltoncox">
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eltoncox&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eltoncox&layout=compact&langs_count=7&theme=dracula"/>
 </div>
